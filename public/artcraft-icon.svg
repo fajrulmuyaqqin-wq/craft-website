@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Isometric Craft Prism / Folded C Emblem -->
+  <path d="M50 8 L86 28.8 L86 71.2 L50 92 L14 71.2 L14 28.8 Z" fill="none" stroke="#4e7bfb" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Top Facet -->
+  <path d="M50 14 L80 31.3 L50 48.7 L20 31.3 Z" fill="#4e7bfb" fill-opacity="0.9"/>
+  <!-- Right Facet -->
+  <path d="M53 52 L83 34.7 L83 67.3 L53 84.7 Z" fill="#3b62d6"/>
+  <!-- Left Facet (Cut into stylized open C) -->
+  <path d="M17 34.7 L47 52 L47 84.7 L17 67.3 Z" fill="#6893ff"/>
+  <!-- Inner Dynamic Core -->
+  <path d="M50 32 L65 41 L50 50 L35 41 Z" fill="#ffffff" fill-opacity="0.85"/>
+</svg>
